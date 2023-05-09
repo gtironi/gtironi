@@ -1,16 +1,33 @@
-### Hi there 👋
+### 👋 Hello! I am Gustavo
 
-<!--
-**gtironi/gtironi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓  Data Science and Artificial Intelligence - FGV RJ <br> <br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/gtironi">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gtironi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtironi&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.2&count_weight=0.8&hide=css"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+##
+
+<!-- Linguagens e tecnologias-->
+<div align="center">
+  <div style="display: inline_block"><br>
+    <img alt= "python" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt= "R" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+    <img alt= "html" align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img alt= "css"  align= "center" height= "40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  </div>
+</div>
+
+##
+
+<!-- Conexões -->
+  <div align="center">
+    <div>
+      <a href= "mailto:b51083@fgv.edu.br" target= "_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href= "https://www.linkedin.com/in/gustavotironi/" target= "_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </div>
+  </div>
