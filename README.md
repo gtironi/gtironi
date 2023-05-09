@@ -4,11 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/gtironi">
-  <img height="180em" width = 45%  src="https://github-readme-stats.vercel.app/api?username=gtironi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = 45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtironi&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.2&count_weight=0.8&hide=css"/>
+  <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api?username=gtironi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = 49%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtironi&layout=compact&theme=codeSTACKr&langs_count=6&size_weight=0.2&count_weight=0.8&hide=css"/>
 </div>
-
-<br>
 
 ##
 
